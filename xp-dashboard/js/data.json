@@ -1,0 +1,1153 @@
+{
+	"dashboard" : {
+		"appCount" : {
+			"totalApps" : "12",
+			"smoke" : "03",
+			"pl" : "05",
+			"nl" : "04"
+		},
+		"aggTrends" : [
+			{
+				"name" : "Active Perf Defects",
+				"totalCount" : "89",
+				"incDec" : "+5%",
+				"dataPoints" : [
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 10},
+		            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 3},
+		            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 5},
+		            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 2},
+		            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 1},
+		            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 3},
+		            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 6},
+		            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 14},
+		            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+		            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 21},
+		            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 24},
+		            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 28},
+		            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 26},
+		            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 17},
+		            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 23},
+		            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 28},
+		            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 22},
+		            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 10},
+		            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 9},
+		            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 6},
+		            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 4},
+		            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 14}
+            	]
+			},
+			{
+				"name" : "Planned vs Run",
+				"totalCount" : "18",
+				"incDec" : "+1%",
+				"dataPoints" : [
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 10},
+		            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 3},
+		            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 5},
+		            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 2},
+		            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 1},
+		            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 3},
+		            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 6},
+		            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 14},
+		            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+		            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 21},
+		            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 24},
+		            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 28},
+		            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 26},
+		            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 17},
+		            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 23},
+		            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 28},
+		            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 22},
+		            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 10},
+		            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 9},
+		            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 6},
+		            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 4},
+		            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 14}
+            	]
+			},
+			{
+				"name" : "Age of Defects",
+				"totalCount" : "22",
+				"incDec" : "-5%",
+				"dataPoints" : [
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12}
+            	]
+			},
+			{
+				"name" : "PL and NL Trends",
+				"totalCount" : "10",
+				"incDec" : "-3%",
+				"dataPoints" : [
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12}
+            	]
+			},
+			{
+				"name" : "Ready to Test",
+				"totalCount" : "23",
+				"incDec" : "-5%",
+				"dataPoints" : [
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+		            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12}
+            	]
+			}
+		],
+		"executionSummary" : {
+			"appData" : [
+				{
+					"application" : "DSA",
+					"appUrl" : "/dsa",
+					"smoke" : [
+						{
+							"status" : "pass",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "12%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "12%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "12%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "45%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "GCM",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "fail",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "45%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "67%",
+							"previous" : "78%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "84%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "34%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "XYZ",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "pass",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "68%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "66%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "45%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "CIL 2.0",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "pass",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "45%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "68%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "66%",
+							"previous" : "89%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "BRM",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "fail",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "56%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "DDS",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "fail",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "OFS",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "pass",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "GOV",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "fail",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "Trade Sphere",
+					"appUrl" : "/gcm",
+					"smoke" : [
+						{
+							"status" : "pass",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "10-4-2016",
+					"endDate" : "12-4-2016"
+				},
+				{
+					"application" : "NOVORA",
+					"appUrl" : "/novora",
+					"smoke" : [
+						{
+							"status" : "pass",
+							"lastExecutionDate" : "21-4-2016"
+						}
+					],
+					"normal" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						},
+						{
+							"value" : "90%",
+							"lastExecutionDate" : "21-4-2016",
+							"current" : "70%",
+							"previous" : "68%"
+						}
+					],
+					"signoff" : "10%",
+					"startDate" : "9-4-2016",
+					"endDate" : "15-4-2016"
+				}
+			],
+			"aggCurrRun" : [
+				{
+					"smoke" : "99%",
+					"normal" : [
+						{
+							"value" : "50%",
+							"current" : "83%",
+							"previous" : "66%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "75%",
+							"current" : "82%",
+							"previous" : "66%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "60%",
+							"current" : "85%",
+							"previous" : "34%"
+						}
+					],
+					"signoff" : "73%"
+				}
+			],
+			"aggPrevRun" : [
+				{
+					"smoke" : "81%",
+					"normal" : [
+						{
+							"value" : "46%",
+							"current" : "90%",
+							"previous" : "89%"
+						}
+					],
+					"peak" : [
+						{
+							"value" : "72%",
+							"current" : "56%",
+							"previous" : "66%"
+						}
+					],
+					"regression" : [
+						{
+							"value" : "66%",
+							"current" : "23%",
+							"previous" : "67%"
+						}
+					],
+					"signoff" : "73%"
+				}
+			]
+		},
+		"highlights" : [
+			{
+				"highlight" : "Regression completed for GOV",
+				"date" : "Monday. 21-4-2016"
+			},
+			{
+				"highlight" : "DDS - New features being tested",
+				"date" : "Friday. 18-4-2016"
+			},
+			{
+				"highlight" : "DSA - Normal load testing commenced",
+				"date" : "Thursday. 17-4-2016"
+			}
+		],
+		"lowlights" : [
+			{
+				"lowlight" : "OMEGA CFO regression blocked",
+				"date" : "Monday. 21-4-2016"
+			},
+			{
+				"lowlight" : "DFS Code not deployed to Performance environment",
+				"date" : "Friday. 18-4-2016"
+			},
+			{
+				"lowlight" : "GCM: Scope changed and forward convertor to be tested; new plan being prepared",
+				"date" : "Friday. 18-4-2016"
+			}
+		],		
+		"topDefects" : [
+			{
+				"project": "OMEGA",
+				"defectID" : "00123",
+				"Severity" : "SEV1",
+				"eta": "01/04/2016",
+				"description": "The standard chunk of The standard chunk of The standard chunk of The standard chunk of The standard chunk of The standard chunk of "
+			},
+			{
+				"project": "OMEGA",
+				"defectID" : "00123",
+				"Severity" : "SEV1",
+				"eta": "01/04/2016",
+				"description": "The standard chunk of The standard chunk of The standard chunk of The standard chunk of The standard chunk of The standard chunk of "
+			}
+		],
+		"bullets" : [
+			{
+			    "app": "DSA",
+			    "ranges": [20, 25, 30],
+			    "measures": [12, 16, 29]
+			}, {
+			    "app": "GCM",
+			    "ranges": [20, 25, 30],
+			    "measures": [21, 23]
+			}, {
+			    "app": "BRM",
+			    "ranges": [20, 25, 30],
+			    "measures": [21, 23]
+			}, {
+			    "app": "NOVORA",
+			    "ranges": [20, 25, 30],
+			    "measures": [21, 23]
+			}, {
+			    "app": "Trade Sphere",
+			    "ranges": [20, 25, 30],
+			    "measures": [21, 23]
+			}
+		],
+		"flightPath" : {
+			"name" : "Flight Path",
+			"filters" : [
+				{"values" : ["Monthly", "Daily", "Weekly", "Yearly"]},
+				{"values" : ["All", ""]}
+			],
+			"data" : [
+				{
+					"name" : "RTT",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 3},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 5},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 2},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 1},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 3},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 6},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 14},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 21},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 24},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 28},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 17},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 23},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 28},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 9},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 6},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 4},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 14}
+	            	]
+				},
+				{
+					"name" : "New Defects",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 20},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 55},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 17},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 32},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 16},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 74},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 29},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 45},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 23},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 76},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 74},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 89},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 38},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 4},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 79},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 21},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 41}
+	            	]
+				},
+				{
+					"name" : "Active Defects",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 60},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 71},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 95},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 62},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 57},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 82},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 56},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 34},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 55},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 69},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 62},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 95},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 63},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 56},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 86},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 14},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 49},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 88},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 16},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 65},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 40},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 61},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 34}
+	            	]
+				},
+				{
+					"name" : "Closed Defects",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 12}
+	            	]
+				}
+			]
+		},
+		"perfTren" : {
+			"name" : "Perf Trend",
+			"filters" : [
+				{"values" : ["Current", "Previous"]},
+				{"values" : ["Monthly", "Daily", "Weekly", "Yearly"]}
+			],
+			"data" : [
+				{
+					"name" : "Peak Load",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 3},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 5},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 2},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 1},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 3},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 6},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 14},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 21},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 24},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 28},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 17},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 23},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 28},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 9},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 6},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 4},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 14}
+	            	]
+				},
+				{
+					"name" : "Normal Load",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 20},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 55},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 17},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 32},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 16},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 74},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 29},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 45},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 23},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 76},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 74},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 89},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 38},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 4},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 79},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 21},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 41}
+	            	]
+				}
+			]
+		},
+		"closedDefects" : {
+			"name" : "Closed Defects",
+			"filters" : [
+				{"values" : ["Monthly", "Daily", "Weekly", "Yearly"]}
+			],
+			"data" : [
+				{
+					"name" : "All",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 3},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 5},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 2},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 1},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 3},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 6},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 14},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 21},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 24},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 28},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 17},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 23},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 28},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 9},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 6},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 4},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 14}
+	            	]
+				},
+				{
+					"name" : "Sev1",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 20},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 55},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 17},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 32},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 16},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 74},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 29},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 12},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 45},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 23},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 76},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 74},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 89},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 38},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 4},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 79},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 10},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 21},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 41}
+	            	]
+				},
+				{
+					"name" : "Sev2",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 60},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 71},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 95},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 62},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 57},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 82},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 56},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 34},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 55},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 69},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 62},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 95},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 63},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 56},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 86},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 14},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 49},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 88},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 16},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 65},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 40},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 61},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 34}
+	            	]
+				},
+				{
+					"name" : "Sev3",
+					"dataPoints" : [
+			            {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 40},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 75},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 42},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 87},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 96},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 64},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 39},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 92},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 65},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 33},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 86},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 36},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 64},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 29},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 48},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 35},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 20},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 64}
+	            	]
+				}
+			]
+		},
+		"reopenedDefects" : {
+			"name" : "Reopened Defects",
+			"filters" : [
+				{"values" : ["Day", "Month"]}
+			],
+			"data" : [
+				{
+					"name" : "Reopened",
+					"dataPoints" : [
+                        {"x" : "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)", "y": 40},
+			            {"x" : "Tue Jan 01 2013 01:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 02:00:00 GMT+0530 (India Standard Time)", "y": 75},
+			            {"x" : "Tue Jan 01 2013 03:00:00 GMT+0530 (India Standard Time)", "y": 42},
+			            {"x" : "Tue Jan 01 2013 04:00:00 GMT+0530 (India Standard Time)", "y": 87},
+			            {"x" : "Tue Jan 01 2013 05:00:00 GMT+0530 (India Standard Time)", "y": 22},
+			            {"x" : "Tue Jan 01 2013 06:00:00 GMT+0530 (India Standard Time)", "y": 96},
+			            {"x" : "Tue Jan 01 2013 07:00:00 GMT+0530 (India Standard Time)", "y": 64},
+			            {"x" : "Tue Jan 01 2013 08:00:00 GMT+0530 (India Standard Time)", "y": 15},
+			            {"x" : "Tue Jan 01 2013 09:00:00 GMT+0530 (India Standard Time)", "y": 39},
+			            {"x" : "Tue Jan 01 2013 10:00:00 GMT+0530 (India Standard Time)", "y": 92},
+			            {"x" : "Tue Jan 01 2013 11:00:00 GMT+0530 (India Standard Time)", "y": 65},
+			            {"x" : "Tue Jan 01 2013 12:00:00 GMT+0530 (India Standard Time)", "y": 33},
+			            {"x" : "Tue Jan 01 2013 13:00:00 GMT+0530 (India Standard Time)", "y": 86},
+			            {"x" : "Tue Jan 01 2013 14:00:00 GMT+0530 (India Standard Time)", "y": 36},
+			            {"x" : "Tue Jan 01 2013 15:00:00 GMT+0530 (India Standard Time)", "y": 64},
+			            {"x" : "Tue Jan 01 2013 16:00:00 GMT+0530 (India Standard Time)", "y": 29},
+			            {"x" : "Tue Jan 01 2013 17:00:00 GMT+0530 (India Standard Time)", "y": 48},
+			            {"x" : "Tue Jan 01 2013 18:00:00 GMT+0530 (India Standard Time)", "y": 26},
+			            {"x" : "Tue Jan 01 2013 19:00:00 GMT+0530 (India Standard Time)", "y": 35},
+			            {"x" : "Tue Jan 01 2013 20:00:00 GMT+0530 (India Standard Time)", "y": 20},
+			            {"x" : "Tue Jan 01 2013 21:00:00 GMT+0530 (India Standard Time)", "y": 31},
+			            {"x" : "Tue Jan 01 2013 22:00:00 GMT+0530 (India Standard Time)", "y": 64}
+                    ]
+				}
+			]
+		},
+		"defectType" : {
+			"name" : "Defect Type",
+			"filters" : [
+				{"values" : ["Category", ""]},
+				{"values" : ["Monthly", "Daily", "Weekly", "Yearly"]}
+			],
+			"data" : [
+				{
+					"name" : "Code",
+					"dataPoints" : [
+			            { "y": 6 , "label": "Code", "color": "#009C31"},
+                        { "y": 12, "label": "Content", "color": "#FFD659" },
+                        { "y": 12, "label": "Data", "color": "#FF2D00" },
+                        { "y": 12, "label": "Env", "color": "#FFD659" }
+	            	]
+				},
+				{
+					"name" : "Content",
+					"dataPoints" : [
+			            { "y": 12, "label": "Code"},
+                        { "y": 24, "label": "Content" },
+                        { "y": 18, "label": "Data" },
+                        { "y": 36, "label": "Env" }
+	            	]
+				},
+				{
+					"name" : "Data",
+					"dataPoints" : [
+			            {"x" : "Code", "y": 6},
+			            {"x" : "Content", "y": 12},
+			            {"x" : "Data", "y": 12},
+			            {"x" : "Env", "y": 12}
+	            	]
+				},
+				{
+					"name" : "Env",
+					"dataPoints" : [
+			            {"x" : "Code", "y": 6},
+			            {"x" : "Content", "y": 12},
+			            {"x" : "Data", "y": 12},
+			            {"x" : "Env", "y": 12}
+	            	]
+				},
+				{
+					"name" : "Performance Defects",
+					"dataPoints" : [
+			            {"x" : "Code", "y": 6},
+			            {"x" : "Content", "y": 12},
+			            {"x" : "Data", "y": 12},
+			            {"x" : "Env", "y": 12}
+	            	]
+				}
+			]
+		}
+	}
+}

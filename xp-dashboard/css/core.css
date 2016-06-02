@@ -1,0 +1,488 @@
+/* Initializing the fonts: Start; */
+@font-face {
+    font-family: gothamRoundedBold;
+    src: url(fonts/gotham-rounded-bold.otf);
+}
+@font-face {
+    font-family: gothamRoundedBookItalic;
+    src: url(fonts/gotham-rounded-book-italic.otf);
+}
+@font-face {
+    font-family: gothamRoundedBook;
+    src: url(fonts/gotham-rounded-book.otf);
+}
+@font-face {
+    font-family: gothamRoundedLightItalic;
+    src: url(fonts/gotham-rounded-light-italic.otf);
+}
+@font-face {
+    font-family: gothamRoundedLight;
+    src: url(fonts/gotham-rounded-light.otf);
+}
+/* Initializing the fonts: End; */
+
+/* common css: Start; */
+.paddingLeftZero {
+    padding-left: 0 !important;
+}
+.paddingRightZero {
+    padding-right: 0 !important;
+}
+.tenMarginTop {
+    margin-top: 10px;
+}
+.fnMarginTop {
+    margin-top: 16px;
+}
+.marginTop {
+    margin-top: 15px;
+}
+/* common css: End; */
+
+.navbar-default {
+    background-color: #fff;
+    border-color: transparent;
+    margin: 0;
+    border: none;
+}
+
+.navbar-header {
+    padding: 25px 0 0 15px;
+}
+
+.navbar-nav {
+    padding: 25px 15px;
+}
+
+.logo {
+    background: url(../img/logo.png) no-repeat;
+    height: 50px;
+    width: 50px;
+    padding: 0;
+}
+
+.navbar-nav.navbar-left > li > a {
+    padding-left: 0;
+    color: #0085c3 !important;
+    font-size: 18px !important;
+}
+
+.navbar-nav.navbar-right {
+    margin-right: 0;
+    padding: 25px 0;
+}
+
+.navbar-nav.navbar-right > li > a,
+.navbar-nav.navbar-right > li > a:hover {
+    font-size: 18px !important;
+    color: #989999;
+}
+
+.navbar-nav.navbar-right > li > a > img {
+    height: 20px;
+    width: 20px;
+}
+
+.navbar-nav.navbar-right > li > a > img.drop-down {
+    height: 10px;
+    width: 10px;
+}
+
+.navbar-nav.navbar-right > li > a.dot-menu {
+    padding-left: 0;
+}
+
+.navbar-nav.navbar-right > li > a.dot-menu > img {
+    transform: rotateZ(90deg);
+    -moz-transform: rotateZ(90deg);
+    -webkit-transform: rotateZ(90deg);
+    -o-transform: rotateZ(90deg);
+    width: 15px;
+    height: 15px;
+}
+
+.navbar-nav.navbar-right .user-img {
+    height: 35px;
+    width: 35px;
+    margin: -10px;
+}
+
+.navbar-nav.navbar-right .notification-count {
+    position: absolute;
+    font-size: 8.45px;
+    background: #ec407a;
+    min-width: 23px;
+    color: #fff;
+    text-align: center;
+    border-radius: 52px;
+    height: 10px;
+    line-height: 10px;
+    left: 25px;
+    top: 15px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: transparent !important;
+}
+
+
+/*  */
+#page-content-wrapper {
+    background: #e6e6e6;
+    padding-top: 0;
+}
+
+#page-content-wrapper {
+    height: inherit;
+    overflow: auto;
+}
+
+footer {
+    height: 90px;
+    background: #504d4d;
+}
+
+footer p {
+    text-align: right;
+    padding: 35px 15px 35px 0;
+    margin: 0;
+    color: #fff;
+}
+
+#wrapper {
+    padding-left: 65px;
+}
+
+#sidebar-wrapper {
+    background: #0085c3;
+    width: 65px;
+}
+
+#sidebar-wrapper  .sidebar-nav {
+    width: 65px;
+}
+
+#sidebar-wrapper .sidebar-nav > li {
+    text-indent: 0;
+}
+
+#sidebar-wrapper .sidebar-nav > li > a {
+    padding: 20px;
+}
+
+#sidebar-wrapper .sidebar-nav > li > a > img {
+    height: 20px;
+    width: 25px;
+}
+
+/*------------------------------------------------------*/
+
+#page-content-wrapper .data-status-cont {
+    height: 200px;
+    background: #fff;
+    overflow: hidden;
+}
+
+#page-content-wrapper > .container-fluid .row .col-lg-2.col-md-2.col-sm-2 {
+    padding-left: 0;
+}
+
+#page-content-wrapper .data-status-cont .data-status-bar{
+    background: #3399cc;
+    height: 100%;
+    width: 5px;
+    z-index: 1;
+    position: relative;
+}
+
+#page-content-wrapper .data-status-cont .col-lg-1.col-md-1.col-sm-1{
+    padding-right: 0;
+    padding-left: 0;
+    width: auto;
+}
+
+#page-content-wrapper .data-status-cont .col-lg-11.col-md-11.col-sm-11{
+    padding: 10px 0 0;
+}
+
+#page-content-wrapper .canvasjs-chart-credit {
+    display: none;
+}
+
+#page-content-wrapper .defects-count {
+    margin-top: -2px;
+}
+
+#page-content-wrapper .defects-count span {
+    font-size: 20;
+    font-family: gothamRoundedBook;
+}
+
+#page-content-wrapper .defect-cont-name span {
+    font-size: 12px;
+    font-family: gothamRoundedLight;
+}
+
+#page-content-wrapper .defect-percentage {
+    text-align: right;
+}
+
+#page-content-wrapper .defect-percentage img {
+    height: 15px;
+    width: 15px;
+    margin-top: -3px;
+    transform: rotateZ(-90deg);
+    -webkit-transform: rotateZ(-90deg);
+    -o-transform: rotateZ(-90deg);
+    -moz-transform: rotateZ(-90deg);
+}
+
+#page-content-wrapper .defect-percentage span {
+    font-size: 15px;
+    font-family: gothamRoundedBook;
+}
+
+#page-content-wrapper > .container-fluid:first-child .canvasjs-chart-container .canvasjs-chart-canvas {
+    height: 163px !important;
+    top: -144px;
+}
+
+#page-content-wrapper > .container-fluid:last-child {
+    margin-top: 15px;
+}
+
+.col-planned {
+    padding-right: 0;
+}
+
+.graph-cont {
+    height: auto;
+    background: #fff;
+    padding: 20px;
+}
+
+#testProgress,
+#testStatus,
+#closedActive,
+#activeDefects,
+#closedDefects,
+#ageDefects,
+#defectsType {
+    height: 300px;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+.graph-cont-header > span {
+    color: #0084C2;
+    font-family: 'gothamRoundedLight';
+}
+
+.graph-cont-header > .graph-button {
+    display: inline;
+    float: right;
+    margin: 0 0 0 auto;
+}
+
+.graph-cont-header .graph-button > button {
+    border: 1px solid #E0E0E0;
+    border-radius: 2px;
+    background: #F5F5F5;
+    color: #636363;
+    outline: none;
+}
+
+.graph-cont-header .graph-button > ul {
+    list-style-type: none;
+    display: none;
+}
+
+.top-defect-header {
+    height: 50px;
+    background: #0085c3;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    font-family: 'gothamRoundedLight';
+    font-weight: 700;
+}
+
+.top-defect-container {
+    height: auto;
+    background: #fff;
+    border-bottom: 1px solid #d4d3d3;
+    padding: 20px;
+}
+.highlights-cont .top-defect-container, .lowlights-cont .top-defect-container{
+    border-bottom: none;
+    padding: 5px 20px;
+}
+.top-defect-container > .top-defect-row1  {
+    color: #0188cc;
+    font-family: 'gothamRoundedLight';
+    font-weight: 700;
+}
+
+.top-defect-container > .top-defect-row2  {
+    color: #adacac;
+    font-family: 'gothamRoundedLight';
+    font-weight: 700;
+}
+
+.top-defect-container > .top-defect-row3  {
+    color: #3d3d3d;
+    font-family: 'gothamRoundedLight';
+    font-weight: 700;
+}
+
+
+
+
+/* Dashboard Executive summary */
+
+.exec-summary th,.exec-summary td,.agg-previous-percent td,.agg-current-percent td{
+    text-align: center;
+}
+.exec-summary th:nth-child(1),.exec-summary td:nth-child(1),.agg-previous-percent td:nth-child(1),.agg-current-percent td:nth-child(1){
+    text-align: left;
+}
+.progress_bar{
+    width: 30px;
+    height: 30px;
+    border:1px solid #0085c3;
+    border-radius: 50px;
+    display: block;
+    padding: 2px;  
+    margin: 0 auto; 
+    background-color: #fff;
+}
+.exec-table,.agg-table {
+    padding: 0 15px 0 0;
+}
+.exec-table .table,.agg-table .table{
+    background-color: #fff;
+}
+.table-striped > tbody > tr:nth-of-type(2n+1){
+    background-color: #eaf4fe;
+}
+.table-striped > tbody > tr:nth-of-type(2n){
+    background-color: #f7f7f7;
+}
+.exec-table .table-striped > tbody td,.agg-table tbody td{
+    border-top: none !important;
+}
+.table > thead > tr > th{
+    border-bottom : none;
+}
+.agg-current,.app-name a{
+    color: #0085c3;
+}
+.width20{
+    width: 20%;
+}
+.width10{
+    width: 10%;
+}
+.width15{
+    width: 15%;
+}
+.active{
+    display: inline;
+    text-align: center;
+}
+.inactive{
+    display: none;
+    text-align: center;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.dell-title{
+    padding: 10px 24px;
+    font-family: "gothamRoundedBook";
+}
+
+.app-count {
+    padding-right: 20px;
+    font-family: "gothamRoundedBook";
+}
+.app-container {
+    padding: 10px 0px;
+    width: 100%;
+    display: table;
+    background-color: #fff;
+    margin-bottom: 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.graph-container {
+    margin-top: 76px;
+}
+#page-content-wrapper > .container-fluid{
+    padding-right: 0;
+}
+3 .g-container{
+    padding: 0 0 0 20px;
+}
+.app-content{
+    background-color: #fff;
+    width: 100px;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;    
+}
+.total-apps{
+    padding-right: 10px;
+}
+.smoke-apps{
+    background-color: #79d60d;
+}
+.peak-apps{
+    background-color: #ec6f62;
+}
+.normal-apps{
+    background-color: #eddf6a;
+}
+.popover  {
+    background: #000 !important;
+    color: #fff;
+}
+.popover.top .arrow:after {
+  border-top-color:#000 !important;
+}
+.hoverPercentage{
+    color: #79d60d;
+    font-size: 24px;
+}
+/* Dashboard Executive summary */
+/* Bullet graph d3.js */
+
+.bullet { font: 10px sans-serif; }
+.bullet .marker { stroke: #000; stroke-width: 2px; }
+.bullet .tick line { stroke: #666; stroke-width: .5px; }
+.bullet .range.s0 { fill: #eee; }
+.bullet .range.s1 { fill: #ddd; }
+.bullet .range.s2 { fill: #ccc; }
+.bullet .measure.s0 { fill: steelblue; }
+.bullet .measure.s1 { fill: #fff; }
+.bullet .measure.s2 { fill: steelblue; }
+.bullet .measure.s3 { fill: lightsteelblue; }
+.bullet .title { font-size: 10px; font-weight: bold; }
+.bullet .subtitle { fill: #999; }
+
+/* Bullet graph d3.js */
+
+.hideThis {
+    display: none;
+}
+
+.g-container .row .col-lg-3 {
+    width: 20% !important;
+    padding-left: 0;
+}
